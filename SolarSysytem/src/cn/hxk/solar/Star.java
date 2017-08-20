@@ -32,7 +32,7 @@ public class Star {
 	}
 	
 	public Star(String imgpath,double x,double y){
-		this(GameUtil.getImage(imgpath), x, y);   //Í¨¹ıthisµ÷ÓÃÁíÒ»¸ö¹¹Ôì·½·¨
+		this(GameUtil.getImage(imgpath), x, y);   //é€šè¿‡thisè°ƒç”¨å¦ä¸€ä¸ªæ„é€ æ–¹æ³•
 	}
 	
 	
